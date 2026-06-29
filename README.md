@@ -12,4 +12,4 @@ python snake.py
 
 ## Author
 Aman mathur
-amanmathur45678-ship-it/aman
+github.com/amanmathur45678-ship-it/aman
