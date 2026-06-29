@@ -1,7 +1,7 @@
 # Snake Game
 ## What is this ?
 python developed game
-clasical snake game
+classical snake game
 
 ## Technologies
 -Python
