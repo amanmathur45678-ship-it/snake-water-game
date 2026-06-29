@@ -10,5 +10,5 @@ clasical snake game
 ## How to use ?
 python snake.py
 
-##Author
+## Author
 Aman mathur
