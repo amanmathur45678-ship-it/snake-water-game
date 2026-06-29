@@ -11,5 +11,5 @@ clasical snake game
 python snake.py
 
 ## Author
-Aman mathur
+Aman mathur 
 github.com/amanmathur45678-ship-it/aman
